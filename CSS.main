@@ -24,7 +24,7 @@ html. body {
 }
 
 .box .background-image {
-  background: url("http://www.mountainlion.org/us/co/1240x515Colorado-Aspen.png");
+  background: url("https://www.mountainlion.org/us/co/1240x515Colorado-Aspen.png");
   background-position: center bottom;
   background-size: cover;
   background-repeat: none;
